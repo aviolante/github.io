@@ -4,8 +4,8 @@ date: 2018-08-03
 categories:
   - blog
 tags:
-  - R
-  - Visualization
+  - r
+  - visualization
 ---
 
 ### Introduction
