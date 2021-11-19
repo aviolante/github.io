@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Andre currently manages a team of data scientists on the [IBM Data Science Elite Team](https://www.ibm.com/analytics/services/data-science-and-ai-elite) who support client engagements that involve machine learning and artificial intelligence tasks. He also leads data science at a startup called [Rares](https://rares.io/) which seeks to build the first ever true stock market for high valued sneakers.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Andre has a Master’s degree in data science and around 10 years of analytics and data science experience. He specializes in retail and consumer analytics with experience coming from companies like Zappos, Nike, SAS, and IBM. Andre has worked with several data platforms (Oracle, Hadoop, Microsoft, AWS) using a variety of open source tools, primarily R and Python. Andre enjoys building relationships and is very intellectually curious with a passion for solving real world business problems that make impact.
+
+On his off time, Andre enjoys exercising, watching sports, reading, binge streaming, and spending time with his family.
