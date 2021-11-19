@@ -73,7 +73,7 @@ author:
       url: "https://github.com/aviolante"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/resume.pdf"
+      url: "/github.io/assets/files/resume.pdf"
 
 
 footer:
@@ -89,7 +89,7 @@ footer:
       url: "https://github.com/aviolante"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/resume.pdf"
+      url: "/github.io/assets/files/resume.pdf"
 
 defaults:
   # _posts
