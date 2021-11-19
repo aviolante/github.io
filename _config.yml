@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Andre Violante"
   avatar : "/assets/images/bio-pic.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Passionate about Data and Learning"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
