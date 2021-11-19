@@ -59,12 +59,12 @@ plugins:
 
 author:
   name   : "Andre Violante"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-pic.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fa-linkedin"
+      url: "https://www.linkedin.com/in/andreviolante/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
