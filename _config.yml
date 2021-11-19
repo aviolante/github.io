@@ -63,23 +63,33 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
-      icon: "fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/andreviolante/"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@violante.andre"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/aviolante"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/resume.pdf"
+
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/andreviolante/"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@violante.andre"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/aviolante"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/resume.pdf"
 
 defaults:
   # _posts
