@@ -1,5 +1,5 @@
 ---
-title: ""Hey Selenium, scrape me a shopping list""
+title: "Hey Selenium, scrape me a shopping list"
 date: 2020-12-07
 categories:
   - blog
