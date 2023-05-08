@@ -88,7 +88,7 @@ footer:
       url: "https://github.com/aviolante"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: "/home/assets/resume.pdf"
+      url: "/home/assets/Andre Resume.pdf"
 
 defaults:
   # _posts
