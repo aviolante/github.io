@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-With over 10 years of experience in analytics and data science, Andre holds a Master’s degree in Data Science and has worked as both an individual contributor and a leader of high performing teams in large companies and startups. He possesses exceptional communication skills and has worked across various industries, including but not limited to, retail (direct-to-consumer and e-commerce), consumer analytics and personalization, and finance (both fintech and traditional banking), gaining experience from renowned brands and consulting firms such as Zappos, Nike, SAS, IBM, Bolt, and Quantworks.
+With over a decade of experience in analytics and data science, Andre holds a Master's degree in the field and has excelled as both an individual contributor and team leader in large companies and startups. He has strong communication skills and has worked across diverse sectors including retail (direct-to-consumer, e-commerce), consumer analytics, personalization, and finance (fintech, traditional banking), with affiliations to major brands and consulting firms like Zappos / Amazon, Nike, SAS, IBM, Bolt, and Quantworks.
 
-Andre has experience working with a range of on-premise and cloud architectures (Oracle, Hadoop, Microsoft, SAS, AWS, and GCP) and has utilized open source tools such as SQL, R, and Python. He adopts a servant leadership model and prioritizes building genuine relationships with his team members while mentoring them to progress both professionally and personally. He values diversity of thought and encourages collaboration among team members, always looking for ways to solve real-world business problems that make an impact.
+Andre is proficient in various architectures like Oracle, Hadoop, Microsoft, SAS, AWS, and GCP, along with programming languages like SQL, R, and Python. His servant leadership approach prioritizes genuine relationships within teams, fostering professional and personal growth. He values diverse perspectives and promotes collaborative problem-solving for driving high impact business solutions.
 
-During his leisure time, Andre enjoys working out, watching sports, reading, binge-watching shows, and spending time with his family.
+Outside work, Andre enjoys exercise, sports, teaching, reading, binge-watching shows, and family time.
